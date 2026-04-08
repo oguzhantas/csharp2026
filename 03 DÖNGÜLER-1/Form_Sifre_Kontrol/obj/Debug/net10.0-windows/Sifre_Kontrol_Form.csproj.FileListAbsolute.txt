@@ -1,0 +1,16 @@
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\bin\Debug\net10.0-windows\Sifre_Kontrol_Form.exe
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\bin\Debug\net10.0-windows\Sifre_Kontrol_Form.deps.json
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\bin\Debug\net10.0-windows\Sifre_Kontrol_Form.runtimeconfig.json
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\bin\Debug\net10.0-windows\Sifre_Kontrol_Form.dll
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\bin\Debug\net10.0-windows\Sifre_Kontrol_Form.pdb
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.Form1.resources
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.dll
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\refint\Sifre_Kontrol_Form.dll
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.pdb
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\Sifre_Kontrol_Form.genruntimeconfig.cache
+C:\Users\oguzh\source\repos\Sifre_Kontrol_Form\obj\Debug\net10.0-windows\ref\Sifre_Kontrol_Form.dll

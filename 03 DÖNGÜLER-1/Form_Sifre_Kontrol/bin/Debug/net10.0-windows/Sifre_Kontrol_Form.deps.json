@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sifre_Kontrol_Form/1.0.0": {
+        "runtime": {
+          "Sifre_Kontrol_Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sifre_Kontrol_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

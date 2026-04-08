@@ -1,0 +1,16 @@
+C:\Users\oguzh\source\repos\Form_Toplam\bin\Debug\net10.0-windows\Form_Toplam.exe
+C:\Users\oguzh\source\repos\Form_Toplam\bin\Debug\net10.0-windows\Form_Toplam.deps.json
+C:\Users\oguzh\source\repos\Form_Toplam\bin\Debug\net10.0-windows\Form_Toplam.runtimeconfig.json
+C:\Users\oguzh\source\repos\Form_Toplam\bin\Debug\net10.0-windows\Form_Toplam.dll
+C:\Users\oguzh\source\repos\Form_Toplam\bin\Debug\net10.0-windows\Form_Toplam.pdb
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.Form1.resources
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.dll
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\refint\Form_Toplam.dll
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.pdb
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\Form_Toplam.genruntimeconfig.cache
+C:\Users\oguzh\source\repos\Form_Toplam\obj\Debug\net10.0-windows\ref\Form_Toplam.dll
